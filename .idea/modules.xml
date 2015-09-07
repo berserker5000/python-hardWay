@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Flask_project/.idea/Flask_project.iml" filepath="$PROJECT_DIR$/../Flask_project/.idea/Flask_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../filecrypt/.idea/filecrypt.iml" filepath="$PROJECT_DIR$/../filecrypt/.idea/filecrypt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../intetics/.idea/intetics.iml" filepath="$PROJECT_DIR$/../intetics/.idea/intetics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python-hardWay.iml" filepath="$PROJECT_DIR$/.idea/python-hardWay.iml" />
+    </modules>
+  </component>
+</project>
+
